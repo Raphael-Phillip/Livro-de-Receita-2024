@@ -2,8 +2,10 @@
 ###  Recipe page taught by Rocketseat<h3>
 <br/>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114286800/198611587-7fb7bad1-d548-48e6-9d21-5383e1ac47c5.png", style="width:70%" />
-<img src="https://user-images.githubusercontent.com/114286800/198611599-5dc85845-1eda-4eff-824b-ca1705c31ae2.png", style="width:70%"/>
+
+
+
+![Livro-Receita-2024](https://github.com/user-attachments/assets/bac82dc2-68bc-42b4-818f-fc03e2797e5c)
 </div>
 <br/>
 <br/>
@@ -17,7 +19,6 @@ This simple project built in conjunction with the full-Stack course on the Rocke
 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  />
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 

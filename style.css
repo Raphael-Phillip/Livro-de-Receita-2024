@@ -63,3 +63,16 @@ ul {
   margin-bottom: 10px;
   text-align: justify;
 }
+
+footer {
+  color: #5b5752;
+  text-align: center;
+  padding-bottom: 48px;
+  font-size: 12px;
+}
+
+footer img {
+  vertical-align: middle;
+  width: 12px;
+  height: 12px;
+}
